@@ -5,7 +5,7 @@
 }
 
 body > header {
-    background-color: magenta;
+    background-color: rgb(21, 255, 0);
     padding: 16px 0;
     color: #fff;
 }
@@ -70,4 +70,36 @@ section h2,
 
 #technology h3 {
     color: green;
+}
+
+#sports {
+    background-color: blue;
+}
+
+#sports a {
+    background-color: rgb(207, 14, 14);
+}
+
+#economy {
+    background-color: rgb(0, 255, 21);
+}
+
+#economy a {
+    background-color: rgb(129, 0, 108);
+}
+
+#entertaiment {
+    background-color: rgb(235, 27, 27);
+}
+
+#entertaiment a {
+    background-color: rgb(48, 236, 73);
+}
+
+#technology {
+    background-color: rgb(208, 255, 0);
+}
+
+#technology a {
+    background-color: rgb(28, 194, 206);
 }
